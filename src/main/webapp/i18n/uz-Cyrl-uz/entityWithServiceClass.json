@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClass": {
+      "home": {
+        "title": "Entity With Service Classes",
+        "createLabel": "Янги Entity With Service Class қўшиш",
+        "createOrEditLabel": "Entity With Service Classни таҳрирлаш",
+        "notFound": "No Entity With Service Classes found"
+      },
+      "created": "Entity With Service Class {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Service Class сақланди.",
+      "deleted": "{{ param }}- Entity With Service Class ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Service Classни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Service Class"
+      },
+      "zoe": "Zoe"
+    }
+  }
+}

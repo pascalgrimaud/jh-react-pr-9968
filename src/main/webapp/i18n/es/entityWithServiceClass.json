@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClass": {
+      "home": {
+        "title": "Entity With Service Classes",
+        "createLabel": "Crear nuevo Entity With Service Class",
+        "createOrEditLabel": "Crear o editar Entity With Service Class",
+        "notFound": "Ningún Entity With Service Classes encontrado"
+      },
+      "created": "Un nuevo Entity With Service Class ha sido creado con el identificador {{ param }}",
+      "updated": "Un Entity With Service Class ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Entity With Service Class ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Entity With Service Class {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Class"
+      },
+      "zoe": "Zoe"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithDTO": {
+      "home": {
+        "title": "Entity With DTOS",
+        "createLabel": "Krijo një të ri Entity With DTO",
+        "createOrEditLabel": "Krijo ose përpuno një Entity With DTO",
+        "notFound": "No Entity With DTOS found"
+      },
+      "created": "Një Entity With DTO i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Entity With DTO u përpunua me identifikues {{ param }}",
+      "deleted": "Një Entity With DTO u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Entity With DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With DTO"
+      },
+      "emma": "Emma"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImplAndDTO": {
+      "home": {
+        "title": "Entity With Service Impl And DTOS",
+        "createLabel": "Янги Entity With Service Impl And DTO қўшиш",
+        "createOrEditLabel": "Entity With Service Impl And DTOни таҳрирлаш",
+        "notFound": "No Entity With Service Impl And DTOS found"
+      },
+      "created": "Entity With Service Impl And DTO {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Service Impl And DTO сақланди.",
+      "deleted": "{{ param }}- Entity With Service Impl And DTO ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Service Impl And DTOни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Service Impl And DTO"
+      },
+      "louis": "Louis"
+    }
+  }
+}

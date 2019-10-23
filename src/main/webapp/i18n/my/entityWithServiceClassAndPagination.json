@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClassAndPagination": {
+      "home": {
+        "title": "Entity With Service Class And Paginations",
+        "createLabel": "Entity With Service Class And Pagination အသစ်ထည့်မည်",
+        "createOrEditLabel": "Entity With Service Class And Pagination အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Entity With Service Class And Paginations found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Entity With Service Class And Pagination အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Entity With Service Class And Pagination တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Entity With Service Class And Pagination တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Entity With Service Class And Pagination {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Entity With Service Class And Pagination"
+      },
+      "enzo": "Enzo"
+    }
+  }
+}

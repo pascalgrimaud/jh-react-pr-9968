@@ -1,0 +1,68 @@
+{
+  "travisReactApp": {
+    "fieldTestEntity": {
+      "home": {
+        "title": "Field Test Entities",
+        "createLabel": "Field Test Entity အသစ်ထည့်မည်",
+        "createOrEditLabel": "Field Test Entity အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Field Test Entities found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Field Test Entity အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Field Test Entity တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Field Test Entity တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Field Test Entity {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Field Test Entity"
+      },
+      "stringTom": "String Tom",
+      "stringRequiredTom": "String Required Tom",
+      "stringMinlengthTom": "String Minlength Tom",
+      "stringMaxlengthTom": "String Maxlength Tom",
+      "stringPatternTom": "String Pattern Tom",
+      "integerTom": "Integer Tom",
+      "integerRequiredTom": "Integer Required Tom",
+      "integerMinTom": "Integer Min Tom",
+      "integerMaxTom": "Integer Max Tom",
+      "longTom": "Long Tom",
+      "longRequiredTom": "Long Required Tom",
+      "longMinTom": "Long Min Tom",
+      "longMaxTom": "Long Max Tom",
+      "floatTom": "Float Tom",
+      "floatRequiredTom": "Float Required Tom",
+      "floatMinTom": "Float Min Tom",
+      "floatMaxTom": "Float Max Tom",
+      "doubleRequiredTom": "Double Required Tom",
+      "doubleMinTom": "Double Min Tom",
+      "doubleMaxTom": "Double Max Tom",
+      "bigDecimalRequiredTom": "Big Decimal Required Tom",
+      "bigDecimalMinTom": "Big Decimal Min Tom",
+      "bigDecimalMaxTom": "Big Decimal Max Tom",
+      "localDateTom": "Local Date Tom",
+      "localDateRequiredTom": "Local Date Required Tom",
+      "instantTom": "Instant Tom",
+      "instantRequiredTom": "Instant Required Tom",
+      "zonedDateTimeTom": "Zoned Date Time Tom",
+      "zonedDateTimeRequiredTom": "Zoned Date Time Required Tom",
+      "durationTom": "Duration Tom",
+      "durationRequiredTom": "Duration Required Tom",
+      "booleanTom": "Boolean Tom",
+      "booleanRequiredTom": "Boolean Required Tom",
+      "enumTom": "Enum Tom",
+      "enumRequiredTom": "Enum Required Tom",
+      "uuidTom": "Uuid Tom",
+      "uuidRequiredTom": "Uuid Required Tom",
+      "byteImageTom": "Byte Image Tom",
+      "byteImageRequiredTom": "Byte Image Required Tom",
+      "byteImageMinbytesTom": "Byte Image Minbytes Tom",
+      "byteImageMaxbytesTom": "Byte Image Maxbytes Tom",
+      "byteAnyTom": "Byte Any Tom",
+      "byteAnyRequiredTom": "Byte Any Required Tom",
+      "byteAnyMinbytesTom": "Byte Any Minbytes Tom",
+      "byteAnyMaxbytesTom": "Byte Any Maxbytes Tom",
+      "byteTextTom": "Byte Text Tom",
+      "byteTextRequiredTom": "Byte Text Required Tom"
+    }
+  }
+}

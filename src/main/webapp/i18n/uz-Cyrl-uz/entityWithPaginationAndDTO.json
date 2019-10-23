@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithPaginationAndDTO": {
+      "home": {
+        "title": "Entity With Pagination And DTOS",
+        "createLabel": "Янги Entity With Pagination And DTO қўшиш",
+        "createOrEditLabel": "Entity With Pagination And DTOни таҳрирлаш",
+        "notFound": "No Entity With Pagination And DTOS found"
+      },
+      "created": "Entity With Pagination And DTO {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Pagination And DTO сақланди.",
+      "deleted": "{{ param }}- Entity With Pagination And DTO ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Pagination And DTOни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Pagination And DTO"
+      },
+      "lea": "Lea"
+    }
+  }
+}

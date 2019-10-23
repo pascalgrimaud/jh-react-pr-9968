@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "Maps Id User Profile With DTOS",
+        "createLabel": "Maak een nieuwe Maps Id User Profile With DTO",
+        "createOrEditLabel": "Maak of wijzig een Maps Id User Profile With DTO",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "A new Maps Id User Profile With DTO is created with identifier {{ param }}",
+      "updated": "A Maps Id User Profile With DTO is updated with identifier {{ param }}",
+      "deleted": "A Maps Id User Profile With DTO is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Bent u zeker dat u Maps Id User Profile With DTO {{ id }} wilt verwijderen?"
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

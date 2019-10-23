@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "Maps Id User Profile With DTOS",
+        "createLabel": "建立一筆新的 Maps Id User Profile With DTO",
+        "createOrEditLabel": "建立或編輯 Maps Id User Profile With DTO",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "新的 Maps Id User Profile With DTO 建立成功，識別碼為 {{ param }}",
+      "updated": "識別碼為 {{ param }} 的 Maps Id User Profile With DTO 更新成功",
+      "deleted": "識別碼為 {{ param }} 的 Maps Id User Profile With DTO 刪除成功",
+      "delete": {
+        "question": "您確定要刪除 Maps Id User Profile With DTO {{ id }} 嗎?"
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

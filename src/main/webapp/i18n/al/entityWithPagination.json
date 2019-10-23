@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithPagination": {
+      "home": {
+        "title": "Entity With Paginations",
+        "createLabel": "Krijo një të ri Entity With Pagination",
+        "createOrEditLabel": "Krijo ose përpuno një Entity With Pagination",
+        "notFound": "No Entity With Paginations found"
+      },
+      "created": "Një Entity With Pagination i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Entity With Pagination u përpunua me identifikues {{ param }}",
+      "deleted": "Një Entity With Pagination u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Entity With Pagination {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Pagination"
+      },
+      "nathan": "Nathan"
+    }
+  }
+}

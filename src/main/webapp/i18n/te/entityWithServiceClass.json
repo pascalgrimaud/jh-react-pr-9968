@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClass": {
+      "home": {
+        "title": "Entity With Service Classes",
+        "createLabel": "కొత్త Entity With Service Class  సృష్టించండి",
+        "createOrEditLabel": "Entity With Service Class సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Entity With Service Classes found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Entity With Service Class {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Entity With Service Class"
+      },
+      "zoe": "Zoe"
+    }
+  }
+}

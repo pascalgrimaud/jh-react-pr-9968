@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithPaginationAndDTO": {
+      "home": {
+        "title": "Entity With Pagination And DTOS",
+        "createLabel": "Entity With Pagination And DTO အသစ်ထည့်မည်",
+        "createOrEditLabel": "Entity With Pagination And DTO အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Entity With Pagination And DTOS found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Entity With Pagination And DTO အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Entity With Pagination And DTO တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Entity With Pagination And DTO တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Entity With Pagination And DTO {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Entity With Pagination And DTO"
+      },
+      "lea": "Lea"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "travisReactApp": {
+    "fieldTestPaginationEntity": {
+      "home": {
+        "title": "Field Test Pagination Entities",
+        "createLabel": "Field Test Pagination Entity အသစ်ထည့်မည်",
+        "createOrEditLabel": "Field Test Pagination Entity အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Field Test Pagination Entities found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Field Test Pagination Entity အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Field Test Pagination Entity တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Field Test Pagination Entity တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Field Test Pagination Entity {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Field Test Pagination Entity"
+      },
+      "stringAlice": "String Alice",
+      "stringRequiredAlice": "String Required Alice",
+      "stringMinlengthAlice": "String Minlength Alice",
+      "stringMaxlengthAlice": "String Maxlength Alice",
+      "stringPatternAlice": "String Pattern Alice",
+      "integerAlice": "Integer Alice",
+      "integerRequiredAlice": "Integer Required Alice",
+      "integerMinAlice": "Integer Min Alice",
+      "integerMaxAlice": "Integer Max Alice",
+      "longAlice": "Long Alice",
+      "longRequiredAlice": "Long Required Alice",
+      "longMinAlice": "Long Min Alice",
+      "longMaxAlice": "Long Max Alice",
+      "floatAlice": "Float Alice",
+      "floatRequiredAlice": "Float Required Alice",
+      "floatMinAlice": "Float Min Alice",
+      "floatMaxAlice": "Float Max Alice",
+      "doubleRequiredAlice": "Double Required Alice",
+      "doubleMinAlice": "Double Min Alice",
+      "doubleMaxAlice": "Double Max Alice",
+      "bigDecimalRequiredAlice": "Big Decimal Required Alice",
+      "bigDecimalMinAlice": "Big Decimal Min Alice",
+      "bigDecimalMaxAlice": "Big Decimal Max Alice",
+      "localDateAlice": "Local Date Alice",
+      "localDateRequiredAlice": "Local Date Required Alice",
+      "instantAlice": "Instant Alice",
+      "instanteRequiredAlice": "Instante Required Alice",
+      "zonedDateTimeAlice": "Zoned Date Time Alice",
+      "zonedDateTimeRequiredAlice": "Zoned Date Time Required Alice",
+      "durationAlice": "Duration Alice",
+      "durationRequiredAlice": "Duration Required Alice",
+      "booleanAlice": "Boolean Alice",
+      "booleanRequiredAlice": "Boolean Required Alice",
+      "enumAlice": "Enum Alice",
+      "enumRequiredAlice": "Enum Required Alice",
+      "uuidAlice": "Uuid Alice",
+      "uuidRequiredAlice": "Uuid Required Alice",
+      "byteImageAlice": "Byte Image Alice",
+      "byteImageRequiredAlice": "Byte Image Required Alice",
+      "byteImageMinbytesAlice": "Byte Image Minbytes Alice",
+      "byteImageMaxbytesAlice": "Byte Image Maxbytes Alice",
+      "byteAnyAlice": "Byte Any Alice",
+      "byteAnyRequiredAlice": "Byte Any Required Alice",
+      "byteAnyMinbytesAlice": "Byte Any Minbytes Alice",
+      "byteAnyMaxbytesAlice": "Byte Any Maxbytes Alice",
+      "byteTextAlice": "Byte Text Alice",
+      "byteTextRequiredAlice": "Byte Text Required Alice"
+    }
+  }
+}

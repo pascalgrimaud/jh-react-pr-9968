@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithPagination": {
+      "home": {
+        "title": "Entity With Paginations",
+        "createLabel": "Янги Entity With Pagination қўшиш",
+        "createOrEditLabel": "Entity With Paginationни таҳрирлаш",
+        "notFound": "No Entity With Paginations found"
+      },
+      "created": "Entity With Pagination {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Pagination сақланди.",
+      "deleted": "{{ param }}- Entity With Pagination ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Paginationни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Pagination"
+      },
+      "nathan": "Nathan"
+    }
+  }
+}

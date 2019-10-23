@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClass": {
+      "home": {
+        "title": "Entity With Service Classes",
+        "createLabel": "Krijo një të ri Entity With Service Class",
+        "createOrEditLabel": "Krijo ose përpuno një Entity With Service Class",
+        "notFound": "No Entity With Service Classes found"
+      },
+      "created": "Një Entity With Service Class i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Entity With Service Class u përpunua me identifikues {{ param }}",
+      "deleted": "Një Entity With Service Class u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Entity With Service Class {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Class"
+      },
+      "zoe": "Zoe"
+    }
+  }
+}

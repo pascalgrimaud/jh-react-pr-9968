@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "MapsIdUserProfileWithDTOS",
+        "createLabel": "Egy új Maps Id User Profile With DTO létrehozása",
+        "createOrEditLabel": "Hozzon létre, vagy módosítson Maps Id User Profile With DTOt",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "Egy új Maps Id User Profile With DTO lett létrehozva {{ param }} azonosítóval",
+      "updated": "A Maps Id User Profile With DTO módosítva lett {{ param }} azonosítóval",
+      "deleted": "A Maps Id User Profile With DTO törölve lett {{ param }} azonosítóval",
+      "delete": {
+        "question": "Biztos benne, hogy törölni szeretné az Maps Id User Profile With DTOt {{ id }} azonosítóval?"
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

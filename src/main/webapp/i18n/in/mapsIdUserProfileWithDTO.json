@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "Maps Id User Profile With DTOS",
+        "createLabel": "Buat Maps Id User Profile With DTO baru",
+        "createOrEditLabel": "Buat atau edit Maps Id User Profile With DTO",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "Maps Id User Profile With DTO dengan id {{ param }} telah dibuat",
+      "updated": "Maps Id User Profile With DTO dengan id {{ param }} telah diperbaharui",
+      "deleted": "Maps Id User Profile With DTO dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Maps Id User Profile With DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

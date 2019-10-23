@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImplAndPagination": {
+      "home": {
+        "title": "Entity With Service Impl And Paginations",
+        "createLabel": "Янги Entity With Service Impl And Pagination қўшиш",
+        "createOrEditLabel": "Entity With Service Impl And Paginationни таҳрирлаш",
+        "notFound": "No Entity With Service Impl And Paginations found"
+      },
+      "created": "Entity With Service Impl And Pagination {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Service Impl And Pagination сақланди.",
+      "deleted": "{{ param }}- Entity With Service Impl And Pagination ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Service Impl And Paginationни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Service Impl And Pagination"
+      },
+      "hugo": "Hugo"
+    }
+  }
+}

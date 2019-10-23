@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "Maps Id User Profile With DTOS",
+        "createLabel": "Yangi Maps Id User Profile With DTO qo`shish",
+        "createOrEditLabel": "Maps Id User Profile With DTOni tahrirlash",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "Maps Id User Profile With DTO {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Maps Id User Profile With DTO saqlandi",
+      "deleted": "{{ param }}- Maps Id User Profile With DTO o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Maps Id User Profile With DTOni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClassAndDTO": {
+      "home": {
+        "title": "Entity With Service Class And DTOS",
+        "createLabel": "Янги Entity With Service Class And DTO қўшиш",
+        "createOrEditLabel": "Entity With Service Class And DTOни таҳрирлаш",
+        "notFound": "No Entity With Service Class And DTOS found"
+      },
+      "created": "Entity With Service Class And DTO {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Service Class And DTO сақланди.",
+      "deleted": "{{ param }}- Entity With Service Class And DTO ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Service Class And DTOни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Service Class And DTO"
+      },
+      "lucas": "Lucas"
+    }
+  }
+}

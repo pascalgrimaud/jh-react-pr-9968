@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithPaginationAndDTO": {
+      "home": {
+        "title": "Entity With Pagination And DTOS",
+        "createLabel": "Krijo një të ri Entity With Pagination And DTO",
+        "createOrEditLabel": "Krijo ose përpuno një Entity With Pagination And DTO",
+        "notFound": "No Entity With Pagination And DTOS found"
+      },
+      "created": "Një Entity With Pagination And DTO i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Entity With Pagination And DTO u përpunua me identifikues {{ param }}",
+      "deleted": "Një Entity With Pagination And DTO u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Entity With Pagination And DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Pagination And DTO"
+      },
+      "lea": "Lea"
+    }
+  }
+}

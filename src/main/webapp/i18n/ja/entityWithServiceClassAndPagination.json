@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClassAndPagination": {
+      "home": {
+        "title": "EntityWithServiceClassAndPaginations",
+        "createLabel": "Entity With Service Class And Pagination を追加",
+        "createOrEditLabel": "Entity With Service Class And Paginationを追加または編集",
+        "notFound": "No Entity With Service Class And Paginations found"
+      },
+      "created": "A new Entity With Service Class And Pagination is created with identifier {{ param }}",
+      "updated": "A Entity With Service Class And Pagination is updated with identifier {{ param }}",
+      "deleted": "A Entity With Service Class And Pagination is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Entity With Service Class And Pagination {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Entity With Service Class And Pagination"
+      },
+      "enzo": "Enzo"
+    }
+  }
+}

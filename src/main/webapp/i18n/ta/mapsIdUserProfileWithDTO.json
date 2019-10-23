@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "Maps Id User Profile With DTOS",
+        "createLabel": "Maps Id User Profile With DTO-ஐ உருவாக்கு",
+        "createOrEditLabel": "Maps Id User Profile With DTO -ஐ மாற்று (அ) உருவாக்கு",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "Maps Id User Profile With DTO புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+      "updated": "Maps Id User Profile With DTO மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+      "deleted": "A Maps Id User Profile With DTO நீக்கப்பட்டது, அடையாளம {{ param }}",
+      "delete": {
+        "question": "நீக்குவதற்கு உறுதி செய் Maps Id User Profile With DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

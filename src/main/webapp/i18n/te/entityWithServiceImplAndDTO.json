@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImplAndDTO": {
+      "home": {
+        "title": "Entity With Service Impl And DTOS",
+        "createLabel": "కొత్త Entity With Service Impl And DTO  సృష్టించండి",
+        "createOrEditLabel": "Entity With Service Impl And DTO సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Entity With Service Impl And DTOS found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Impl And DTO సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Impl And DTO సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Impl And DTO తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Entity With Service Impl And DTO {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Entity With Service Impl And DTO"
+      },
+      "louis": "Louis"
+    }
+  }
+}

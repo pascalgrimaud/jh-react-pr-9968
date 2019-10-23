@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithPagination": {
+      "home": {
+        "title": "Entity With Paginations",
+        "createLabel": "Criar novo(a) Entity With Pagination",
+        "createOrEditLabel": "Criar ou editar Entity With Pagination",
+        "notFound": "Nenhum Entity With Paginations encontrado"
+      },
+      "created": "Um novo Entity With Pagination foi criado com o identificador {{ param }}",
+      "updated": "Entity With Pagination com identificador {{ param }} foi actualizado",
+      "deleted": "Entity With Pagination com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Entity With Pagination {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Pagination"
+      },
+      "nathan": "Nathan"
+    }
+  }
+}

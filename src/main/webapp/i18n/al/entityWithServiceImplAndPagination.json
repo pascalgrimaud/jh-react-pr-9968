@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImplAndPagination": {
+      "home": {
+        "title": "Entity With Service Impl And Paginations",
+        "createLabel": "Krijo një të ri Entity With Service Impl And Pagination",
+        "createOrEditLabel": "Krijo ose përpuno një Entity With Service Impl And Pagination",
+        "notFound": "No Entity With Service Impl And Paginations found"
+      },
+      "created": "Një Entity With Service Impl And Pagination i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Entity With Service Impl And Pagination u përpunua me identifikues {{ param }}",
+      "deleted": "Një Entity With Service Impl And Pagination u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Entity With Service Impl And Pagination {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Impl And Pagination"
+      },
+      "hugo": "Hugo"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithDTO": {
+      "home": {
+        "title": "Entity With DTOS",
+        "createLabel": "Янги Entity With DTO қўшиш",
+        "createOrEditLabel": "Entity With DTOни таҳрирлаш",
+        "notFound": "No Entity With DTOS found"
+      },
+      "created": "Entity With DTO {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With DTO сақланди.",
+      "deleted": "{{ param }}- Entity With DTO ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With DTOни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With DTO"
+      },
+      "emma": "Emma"
+    }
+  }
+}

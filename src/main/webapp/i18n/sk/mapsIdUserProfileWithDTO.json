@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "Maps Id User Profile With DTOS",
+        "createLabel": "Pridať Maps Id User Profile With DTO",
+        "createOrEditLabel": "Pridať alebo upraviť Maps Id User Profile With DTO",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "Bol vytvorený potomok entity Maps Id User Profile With DTO s identifikátorom {{ param }}",
+      "updated": "Potomok entity Maps Id User Profile With DTO s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Maps Id User Profile With DTO s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Maps Id User Profile With DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

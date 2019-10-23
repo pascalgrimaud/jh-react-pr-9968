@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClassAndPagination": {
+      "home": {
+        "title": "Entity With Service Class And Paginations",
+        "createLabel": "కొత్త Entity With Service Class And Pagination  సృష్టించండి",
+        "createOrEditLabel": "Entity With Service Class And Pagination సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Entity With Service Class And Paginations found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class And Pagination సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class And Pagination సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class And Pagination తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Entity With Service Class And Pagination {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Entity With Service Class And Pagination"
+      },
+      "enzo": "Enzo"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClassPaginationAndDTO": {
+      "home": {
+        "title": "Entity With Service Class Pagination And DTOS",
+        "createLabel": "కొత్త Entity With Service Class Pagination And DTO  సృష్టించండి",
+        "createOrEditLabel": "Entity With Service Class Pagination And DTO సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Entity With Service Class Pagination And DTOS found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class Pagination And DTO సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class Pagination And DTO సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Entity With Service Class Pagination And DTO తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Entity With Service Class Pagination And DTO {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Entity With Service Class Pagination And DTO"
+      },
+      "lena": "Lena"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImpl": {
+      "home": {
+        "title": "Entity With Service Impls",
+        "createLabel": "Krijo një të ri Entity With Service Impl",
+        "createOrEditLabel": "Krijo ose përpuno një Entity With Service Impl",
+        "notFound": "No Entity With Service Impls found"
+      },
+      "created": "Një Entity With Service Impl i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Entity With Service Impl u përpunua me identifikues {{ param }}",
+      "deleted": "Një Entity With Service Impl u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Entity With Service Impl {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Impl"
+      },
+      "clara": "Clara"
+    }
+  }
+}

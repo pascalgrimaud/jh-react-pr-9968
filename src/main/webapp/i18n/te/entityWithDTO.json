@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithDTO": {
+      "home": {
+        "title": "Entity With DTOS",
+        "createLabel": "కొత్త Entity With DTO  సృష్టించండి",
+        "createOrEditLabel": "Entity With DTO సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Entity With DTOS found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Entity With DTO సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Entity With DTO సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Entity With DTO తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Entity With DTO {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Entity With DTO"
+      },
+      "emma": "Emma"
+    }
+  }
+}

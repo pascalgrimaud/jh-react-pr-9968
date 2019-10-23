@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImpl": {
+      "home": {
+        "title": "Entity With Service Impls",
+        "createLabel": "Criar novo(a) Entity With Service Impl",
+        "createOrEditLabel": "Criar ou editar Entity With Service Impl",
+        "notFound": "Nenhum Entity With Service Impls encontrado"
+      },
+      "created": "Um novo Entity With Service Impl foi criado com o identificador {{ param }}",
+      "updated": "Entity With Service Impl com identificador {{ param }} foi actualizado",
+      "deleted": "Entity With Service Impl com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Entity With Service Impl {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Impl"
+      },
+      "clara": "Clara"
+    }
+  }
+}

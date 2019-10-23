@@ -1,0 +1,68 @@
+{
+  "travisReactApp": {
+    "fieldTestMapstructEntity": {
+      "home": {
+        "title": "Field Test Mapstruct Entities",
+        "createLabel": "Field Test Mapstruct Entity အသစ်ထည့်မည်",
+        "createOrEditLabel": "Field Test Mapstruct Entity အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Field Test Mapstruct Entities found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Field Test Mapstruct Entity အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Field Test Mapstruct Entity တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Field Test Mapstruct Entity တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Field Test Mapstruct Entity {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Field Test Mapstruct Entity"
+      },
+      "stringEva": "String Eva",
+      "stringRequiredEva": "String Required Eva",
+      "stringMinlengthEva": "String Minlength Eva",
+      "stringMaxlengthEva": "String Maxlength Eva",
+      "stringPatternEva": "String Pattern Eva",
+      "integerEva": "Integer Eva",
+      "integerRequiredEva": "Integer Required Eva",
+      "integerMinEva": "Integer Min Eva",
+      "integerMaxEva": "Integer Max Eva",
+      "longEva": "Long Eva",
+      "longRequiredEva": "Long Required Eva",
+      "longMinEva": "Long Min Eva",
+      "longMaxEva": "Long Max Eva",
+      "floatEva": "Float Eva",
+      "floatRequiredEva": "Float Required Eva",
+      "floatMinEva": "Float Min Eva",
+      "floatMaxEva": "Float Max Eva",
+      "doubleRequiredEva": "Double Required Eva",
+      "doubleMinEva": "Double Min Eva",
+      "doubleMaxEva": "Double Max Eva",
+      "bigDecimalRequiredEva": "Big Decimal Required Eva",
+      "bigDecimalMinEva": "Big Decimal Min Eva",
+      "bigDecimalMaxEva": "Big Decimal Max Eva",
+      "localDateEva": "Local Date Eva",
+      "localDateRequiredEva": "Local Date Required Eva",
+      "instantEva": "Instant Eva",
+      "instanteRequiredEva": "Instante Required Eva",
+      "zonedDateTimeEva": "Zoned Date Time Eva",
+      "zonedDateTimeRequiredEva": "Zoned Date Time Required Eva",
+      "durationEva": "Duration Eva",
+      "durationRequiredEva": "Duration Required Eva",
+      "booleanEva": "Boolean Eva",
+      "booleanRequiredEva": "Boolean Required Eva",
+      "enumEva": "Enum Eva",
+      "enumRequiredEva": "Enum Required Eva",
+      "uuidEva": "Uuid Eva",
+      "uuidRequiredEva": "Uuid Required Eva",
+      "byteImageEva": "Byte Image Eva",
+      "byteImageRequiredEva": "Byte Image Required Eva",
+      "byteImageMinbytesEva": "Byte Image Minbytes Eva",
+      "byteImageMaxbytesEva": "Byte Image Maxbytes Eva",
+      "byteAnyEva": "Byte Any Eva",
+      "byteAnyRequiredEva": "Byte Any Required Eva",
+      "byteAnyMinbytesEva": "Byte Any Minbytes Eva",
+      "byteAnyMaxbytesEva": "Byte Any Maxbytes Eva",
+      "byteTextEva": "Byte Text Eva",
+      "byteTextRequiredEva": "Byte Text Required Eva"
+    }
+  }
+}

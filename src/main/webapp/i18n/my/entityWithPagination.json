@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithPagination": {
+      "home": {
+        "title": "Entity With Paginations",
+        "createLabel": "Entity With Pagination အသစ်ထည့်မည်",
+        "createOrEditLabel": "Entity With Pagination အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Entity With Paginations found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Entity With Pagination အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Entity With Pagination တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Entity With Pagination တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Entity With Pagination {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Entity With Pagination"
+      },
+      "nathan": "Nathan"
+    }
+  }
+}

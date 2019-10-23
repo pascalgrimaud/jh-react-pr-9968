@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithDTO": {
+      "home": {
+        "title": "Entity With DTOS",
+        "createLabel": "Criar novo(a) Entity With DTO",
+        "createOrEditLabel": "Criar ou editar Entity With DTO",
+        "notFound": "Nenhum Entity With DTOS encontrado"
+      },
+      "created": "Um novo Entity With DTO foi criado com o identificador {{ param }}",
+      "updated": "Entity With DTO com identificador {{ param }} foi actualizado",
+      "deleted": "Entity With DTO com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Entity With DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With DTO"
+      },
+      "emma": "Emma"
+    }
+  }
+}

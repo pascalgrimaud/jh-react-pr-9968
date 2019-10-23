@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImplPaginationAndDTO": {
+      "home": {
+        "title": "Entity With Service Impl Pagination And DTOS",
+        "createLabel": "Янги Entity With Service Impl Pagination And DTO қўшиш",
+        "createOrEditLabel": "Entity With Service Impl Pagination And DTOни таҳрирлаш",
+        "notFound": "No Entity With Service Impl Pagination And DTOS found"
+      },
+      "created": "Entity With Service Impl Pagination And DTO {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Service Impl Pagination And DTO сақланди.",
+      "deleted": "{{ param }}- Entity With Service Impl Pagination And DTO ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Service Impl Pagination And DTOни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Service Impl Pagination And DTO"
+      },
+      "theo": "Theo"
+    }
+  }
+}

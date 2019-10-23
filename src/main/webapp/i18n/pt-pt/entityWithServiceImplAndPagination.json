@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImplAndPagination": {
+      "home": {
+        "title": "Entity With Service Impl And Paginations",
+        "createLabel": "Criar novo(a) Entity With Service Impl And Pagination",
+        "createOrEditLabel": "Criar ou editar Entity With Service Impl And Pagination",
+        "notFound": "Nenhum Entity With Service Impl And Paginations encontrado"
+      },
+      "created": "Um novo Entity With Service Impl And Pagination foi criado com o identificador {{ param }}",
+      "updated": "Entity With Service Impl And Pagination com identificador {{ param }} foi actualizado",
+      "deleted": "Entity With Service Impl And Pagination com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Entity With Service Impl And Pagination {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Impl And Pagination"
+      },
+      "hugo": "Hugo"
+    }
+  }
+}

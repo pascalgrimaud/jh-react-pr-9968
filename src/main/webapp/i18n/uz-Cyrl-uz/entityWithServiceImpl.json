@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImpl": {
+      "home": {
+        "title": "Entity With Service Impls",
+        "createLabel": "Янги Entity With Service Impl қўшиш",
+        "createOrEditLabel": "Entity With Service Implни таҳрирлаш",
+        "notFound": "No Entity With Service Impls found"
+      },
+      "created": "Entity With Service Impl {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Entity With Service Impl сақланди.",
+      "deleted": "{{ param }}- Entity With Service Impl ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Entity With Service Implни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Entity With Service Impl"
+      },
+      "clara": "Clara"
+    }
+  }
+}

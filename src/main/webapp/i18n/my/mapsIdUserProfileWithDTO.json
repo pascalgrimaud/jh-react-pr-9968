@@ -1,0 +1,23 @@
+{
+  "travisReactApp": {
+    "mapsIdUserProfileWithDTO": {
+      "home": {
+        "title": "Maps Id User Profile With DTOS",
+        "createLabel": "Maps Id User Profile With DTO အသစ်ထည့်မည်",
+        "createOrEditLabel": "Maps Id User Profile With DTO အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Maps Id User Profile With DTOS found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Maps Id User Profile With DTO အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Maps Id User Profile With DTO တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Maps Id User Profile With DTO တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Maps Id User Profile With DTO {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Maps Id User Profile With DTO"
+      },
+      "dateOfBirth": "Date Of Birth",
+      "user": "User"
+    }
+  }
+}

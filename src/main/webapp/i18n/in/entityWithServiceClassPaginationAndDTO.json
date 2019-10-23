@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceClassPaginationAndDTO": {
+      "home": {
+        "title": "Entity With Service Class Pagination And DTOS",
+        "createLabel": "Buat Entity With Service Class Pagination And DTO baru",
+        "createOrEditLabel": "Buat atau edit Entity With Service Class Pagination And DTO",
+        "notFound": "No Entity With Service Class Pagination And DTOS found"
+      },
+      "created": "Entity With Service Class Pagination And DTO dengan id {{ param }} telah dibuat",
+      "updated": "Entity With Service Class Pagination And DTO dengan id {{ param }} telah diperbaharui",
+      "deleted": "Entity With Service Class Pagination And DTO dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Entity With Service Class Pagination And DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Class Pagination And DTO"
+      },
+      "lena": "Lena"
+    }
+  }
+}

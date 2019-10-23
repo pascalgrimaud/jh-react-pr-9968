@@ -1,0 +1,22 @@
+{
+  "travisReactApp": {
+    "entityWithServiceImplAndDTO": {
+      "home": {
+        "title": "Entity With Service Impl And DTOS",
+        "createLabel": "Criar novo(a) Entity With Service Impl And DTO",
+        "createOrEditLabel": "Criar ou editar Entity With Service Impl And DTO",
+        "notFound": "Nenhum Entity With Service Impl And DTOS encontrado"
+      },
+      "created": "Um novo Entity With Service Impl And DTO foi criado com o identificador {{ param }}",
+      "updated": "Entity With Service Impl And DTO com identificador {{ param }} foi actualizado",
+      "deleted": "Entity With Service Impl And DTO com identificador {{ param }} foi eliminado",
+      "delete": {
+        "question": "Tem a certeza que pretende eliminar o(a) Entity With Service Impl And DTO {{ id }}?"
+      },
+      "detail": {
+        "title": "Entity With Service Impl And DTO"
+      },
+      "louis": "Louis"
+    }
+  }
+}
